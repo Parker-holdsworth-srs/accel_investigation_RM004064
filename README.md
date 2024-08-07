@@ -1,5 +1,5 @@
  ### This unit has on average 7x more acceleration than brake exceptions.
-#### SRS average for this unit is 3x more.
+#### SRS average for this unit type is 3x more.
 ![accel](https://github.com/user-attachments/assets/5520a722-7cc3-4a82-91c9-711a00b5d02e)
 ![brake](https://github.com/user-attachments/assets/4dc8e421-0005-45e1-b2ee-1d28ef510d89)
 ### Number of exceptions by driver for 3 month period.
